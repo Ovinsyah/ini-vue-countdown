@@ -1,0 +1,34 @@
+{
+  "name": "ini-vue-countdown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ovinsyah/ini-vue-countdown.git"
+  },
+  "keywords": [
+    "Countdown",
+    "Count Timer",
+    "Vue Countdown"
+  ],
+  "author": "Ovinsyah Al Bayhaqy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ovinsyah/ini-vue-countdown/issues"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.1.0",
+    "@vue/cli-plugin-eslint": "^3.1.0",
+    "@vue/cli-service": "^3.1.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.8.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "vue-template-compiler": "^2.5.21",
+    "webpack": "^4.28.4"
+  },
+  "homepage": "https://github.com/Ovinsyah/ini-vue-countdown#readme"
+}
